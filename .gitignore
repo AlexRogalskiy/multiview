@@ -1,0 +1,15 @@
+# Project dependencies
+.cache
+.vuepress
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store
+
+.vscode
+.idea
+
+package-lock.json
+
