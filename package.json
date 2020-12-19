@@ -1,6 +1,7 @@
 {
   "license": "MIT",
   "scripts": {
+    "start": "npm run dev",
     "dev": "vuepress dev",
     "build": "vuepress build"
   },
